@@ -1,0 +1,17 @@
+# Ignore build and IDE folders
+bin/
+obj/
+.vs/
+.idea/
+
+# Ignore SQLite database
+*.db
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
