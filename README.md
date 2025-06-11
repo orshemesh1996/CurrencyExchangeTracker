@@ -30,11 +30,4 @@ To run the solution correctly, you must start **both services**:
 - `GET /api/currencyrates/status`  
   Returns the current status of the background service (e.g., last update time).
 
-## Example Usage
 
-Open your browser or Postman and navigate to:  
-`https://localhost:7021/swagger/index.html`
-
-From there, you can test all the endpoints interactively.
-
----
